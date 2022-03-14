@@ -1,0 +1,29 @@
+
+
+.matéria{
+    color:red
+}
+
+h3{
+    border:10px solid #02040f
+}
+
+body{
+    background-color:#2f4550;
+}
+
+h1{
+    color:aliceblue
+}
+h2{
+    color:rgb(255, 255, 255)
+}
+ul{
+    color:aliceblue
+}
+
+.semana{
+    background-color: yellow;
+    border:5px solid black
+
+}
